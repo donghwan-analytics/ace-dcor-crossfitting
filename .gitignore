@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.env
+.env.*
+output/
+outputs/
+paper_main_output*/
+Wildfire_Data/
+*.rds
+*.RDS
+*.log
+.DS_Store

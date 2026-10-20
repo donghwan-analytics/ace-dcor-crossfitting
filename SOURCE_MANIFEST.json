@@ -1,0 +1,20 @@
+[
+  {
+    "file": "R/MAIN_simulation_and_concrete_2026_v6_.R",
+    "original_sha256": "8825c913a5eec4ab5367e92e28b1de2c1b8e348e729fbf8ae0e73106b466699b",
+    "prepared_sha256": "a48e6d5905fd436d100eaffa2cbffa7f7a9a74227e2f033a91b85fa5cd07870a",
+    "change": "PROJECT_DIR을 환경변수 또는 작업 폴더로 설정. 계산 로직 유지."
+  },
+  {
+    "file": "R/MAIN_P6_P12_2026.R",
+    "original_sha256": "6a3a5c230aaaf680d0c0b2a782494b42e1320c1786cd83916319d3ea7bad16f0",
+    "prepared_sha256": "81efe81ce74dc9ade385e4fc83daf38a9b70ab04e38517550c14f2ecc05e10e8",
+    "change": "PROJECT_DIR을 환경변수 또는 작업 폴더로 설정. 계산 로직 유지."
+  },
+  {
+    "file": "R/p_to_one_SUPPLEMENT_REVIEWER_CHECKS_2026.R",
+    "original_sha256": "6b0c02fb45624dd2617be0213e2cfa3f02f5a81b4556c91f91f20fa1274b5635",
+    "prepared_sha256": "1b43a89758ddbfb57ad389ad7f5f3d71761ae679c28056d61f500b60e0dad0fd",
+    "change": "PROJECT_DIR을 환경변수 또는 작업 폴더로 설정. 계산 로직 유지."
+  }
+]
